@@ -2,16 +2,16 @@
 
 I am a back-end developer looking to create performant software.
 
-![](https://img.shields.io/badge/C++-blue?logo=cpp&logoColor=white)
-![](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white)
-![](https://img.shields.io/badge/python-4584b6?logo=python&logoColor=white)
-![](https://img.shields.io/badge/lua-000080?logo=lua&logoColor=white)
-![](https://img.shields.io/badge/neovim-0f191f?logo=neovim&logoColor=green)
-![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 <div style="display:flex;margin-top:50px">
   ⭐
@@ -22,4 +22,3 @@ I am a back-end developer looking to create performant software.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|、˜〵          <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;じ&nbsp;しˍ,)ノ<br />
 </div>
-
