@@ -6,10 +6,10 @@ I am a back-end developer looking to create performant software.
 ![](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white)
 ![](https://img.shields.io/badge/python-4584b6?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/lua-000080?logo=lua&logoColor=white)
-![](https://img.shields.io/badge/neovim-000022?logo=neovim&logoColor=green)
+![](https://img.shields.io/badge/neovim-lightgreen?logo=neovim&logoColor=green)
 ![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-lightblue?logo=react.js&logoColor=white)
+![](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
 
