@@ -3,7 +3,6 @@
 [![OpenGL](https://img.shields.io/badge/OpenGL-blue?logo=opengl&logoColor=fff)](#)
 [![Vulkan](https://img.shields.io/badge/Vulkan-orange?logo=vulkan&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
 
 <div style="display:flex;margin-top:50px">
