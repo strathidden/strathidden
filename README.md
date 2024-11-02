@@ -1,8 +1,7 @@
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![OpenGL](https://img.shields.io/badge/OpenGL-blue?logo=opengl&logoColor=fff)](#)
-[![Vulkan](https://img.shields.io/badge/Vulkan-orange?logo=vulkan&logoColor=fff)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![OpenGL](https://img.shields.io/badge/OpenGL-blue?style=for-the-badge&logo=opengl&logoColor=fff)](#)
+[![Vulkan](https://img.shields.io/badge/Vulkan-orange?style=for-the-badge&logo=vulkan&logoColor=fff)](#)
 
 
 <div style="display:flex;margin-top:50px">
