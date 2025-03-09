@@ -14,3 +14,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|、˜〵          <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;じ&nbsp;しˍ,)ノ<br />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/strathidden/strathidden/output/snake.svg" alt="Snake animation" />
+
+###
