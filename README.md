@@ -1,6 +1,6 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=fff)](#)
+[![C#](https://img.shields.io/badge/C#-F7A41D?style=for-the-badge&logo=c#&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 
 <div style="display:flex;margin-top:50px">
