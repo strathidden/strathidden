@@ -16,6 +16,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/strathidden/strathidden/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/strathidden/strathidden/Tateishi_Shima_CPP.jpg" />
 
 ###
