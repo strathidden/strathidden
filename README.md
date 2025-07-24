@@ -6,6 +6,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/strathidden/strathidden/main/Tateishi_Shima_CPP.jpg" />
+<img src="https://raw.githubusercontent.com/strathidden/strathidden/main/Tateishi_Shima_CPP.jpg" style="width:40%;" />
 
 ###
